@@ -22,3 +22,4 @@ PETORIA simplifies pet ownership by integrating personalized care and real-time 
 For more details, please refer to the research presentation accompanying the project.
 
 link: https://ieeexplore.ieee.org/document/10575281
+apklink: https://1024terabox.com/s/1GS1Zfe4OIjLittZ-0KS8_g
