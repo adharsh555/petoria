@@ -1,5 +1,6 @@
 PETORIA - The Ultimate Companion
 Dec 2023 - Apr 2024
+
 Associated with Sahrdaya College of Engineering & Technology (SCET)
 
   Modern pet owners often face numerous challenges in ensuring the well-being and happiness of their pets, including securing timely advice for health or behavioral concerns, managing medication schedules, vaccinations, dietary preferences, and grooming appointments. Additionally, sourcing quality pet products can be inconsistent, and the lack of personalized guidance can lead to suboptimal decisions. There is also a lack of virtual companions to address pet-related queries in real-time, leaving pet owners feeling isolated and uncertain.
